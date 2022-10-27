@@ -9445,6 +9445,66 @@
 "alias" :  "pci:v00008086d000010CAsv*sd*bc*sc*i*"
 },
 {
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d000015FDsv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d0000125Fsv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d0000125Esv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d0000125Dsv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d0000125Csv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d0000125Bsv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d00000D9Fsv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d00005502sv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d00005504sv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d00003101sv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d00003100sv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d000015F7sv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d000015F8sv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d000015F3sv*sd*bc*sc*i*"
+},
+{
+"name" :  "igc.ko",
+"alias" :  "pci:v00008086d000015F2sv*sd*bc*sc*i*"
+},
+{
 "name" :  "ixgbe.ko",
 "alias" :  "pci:v00008086d000015E5sv*sd*bc*sc*i*"
 },
